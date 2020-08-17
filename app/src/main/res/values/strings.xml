@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TIC TAC TOE</string>
+    <string name="heading">    TIC TAC TOE</string>
+    <string name="setting">SETTING</string>
+    <string name="single_player">MULTI PLAYER</string>
+</resources>
